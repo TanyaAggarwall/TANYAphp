@@ -10,7 +10,7 @@ echo"Sum of the two numbers is: $sum";
 }
 addFunction(10,20);
 echo"<br>";
-echo("<br>This program is written by Vardaan Valecha");
+echo "<br>This program is written by Tanya Aggarwal 0221BCA084";
 ?>
 </body>
 </html>
